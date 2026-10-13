@@ -19,3 +19,8 @@ Unreal Engine 5.6 project made during CG Spectrum [Game Programming Foundations]
 ## References
 
 - [How to make a realistic tank in Unreal Engine](https://www.youtube.com/watch?v=BMpTMTtwUvs&t=4414s)
+
+## Related writing
+
+I wrote about this repository on my blog:
+[Founding Sawnoff Studios](https://blog.maceage.com/posts/2026/founding-sawnoff-studios/)
